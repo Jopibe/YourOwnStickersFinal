@@ -3,14 +3,18 @@ Aplicación para hacer stickers de WhatsApp
 # Introducción 
 ¿Qué puedes hacer con esta aplicación?:
 
-- Crea stickers quitando su fondo.
-- Crea paquetes de stickers y agrégalos a whatsapp.
+- Crea stickers a partir de las imagenes ubicadas en la galería del teléfono del usuario quitando su fondo.
+- Crea paquetes de stickers y agregarlos a WhatsApp.
 
 Información adicional:
 
 - Primera aplicación desarrollada con Android Studio, por lo que podría tener algunos errores.
 
 - Es posible que algunas funciones de esta aplicación no funcionen.
+
+- Aplicación diseñada únicamente para dispositivos móviles Android.
+
+- Los stickers se guardan en el almacenamiento local, por lo que al desinstalar la app y volverla a instalar se conservarán los stickers creados anteriormente.
 
 # Librerías utilizadas
 
