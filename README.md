@@ -1,4 +1,4 @@
-
+# Introduction 
 What can you do with this app?:
 
 - Create stickers removing its background
