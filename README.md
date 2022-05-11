@@ -16,7 +16,7 @@ Información adicional:
 
 - Los stickers se guardan en el almacenamiento local, por lo que al desinstalar la app y volverla a instalar se conservarán los stickers creados anteriormente.
 
-# Librerías utilizadas
+# Librerías usadas
 
 - Android CutOut [https://github.com/GabrielBB/Android-CutOut]
 - Lottie [https://github.com/airbnb/lottie-android]
