@@ -8,11 +8,9 @@ Aplicación para hacer stickers de Whatsapp
 
 Información adicional:
 
-- Esta no es una aplicación completamente probada, por lo que podría tener algunos errores.
+- Primera aplicación desarrollada con Android Studio, por lo que podría tener algunos errores.
 
 - Es posible que algunas funciones de esta aplicación no funcionen.
-
-- Siéntase libre de hacer cualquier cambio y hacer solicitudes de incorporación de cambios.
 
 # Librerías utilizadas
 
