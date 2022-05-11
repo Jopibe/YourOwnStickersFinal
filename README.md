@@ -3,15 +3,16 @@ Creador de pegatinas para Android de Whatsapp
 Introducción
 ¿Qué puedes hacer con esta aplicación?:
 
-Crea stickers quitando su fondo
-Crea paquetes de stickers y agrégalos a whatsapp
+	Crea stickers quitando su fondo
+	Crea paquetes de stickers y agrégalos a whatsapp
+	
 Información adicional:
 
-Esta no es una aplicación completamente probada, por lo que podría tener algunos errores.
+	Esta no es una aplicación completamente probada, por lo que podría tener algunos errores.
 
-Es posible que algunas características de esta aplicación no funcionen.
+	Es posible que algunas características de esta aplicación no funcionen.
 
-Siéntase libre de hacer cualquier cambio y hacer solicitudes de incorporación de cambios.
+	Siéntase libre de hacer cualquier cambio y hacer solicitudes de incorporación de cambios.
 
 Bibliotecas utilizadas
 Recorte de Android [ https://github.com/GabrielBB/Android-CutOut ]
