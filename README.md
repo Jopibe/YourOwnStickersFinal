@@ -1,4 +1,4 @@
-Aplicación para hacer stickers de Whatsapp 
+Aplicación para hacer stickers de WhatsApp 
 
 # Introducción 
 ¿Qué puedes hacer con esta aplicación?:
@@ -18,6 +18,7 @@ Información adicional:
 - Lottie [https://github.com/airbnb/lottie-android]
 - FishBun Image Chooser [https://github.com/sangcomz/FishBun]
 - Fresco [https://github.com/facebook/fresco]
+- WhatsApp_api -> api desarrollada durante el proyecto, no existe link con su repositorio.
 
 # Referencias 
 Código cogido de: https://github.com/nikovega21/whatsapp-sticker-maker.git
