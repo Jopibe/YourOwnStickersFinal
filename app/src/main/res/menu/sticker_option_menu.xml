@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sticker_share"
+        android:title="Compartir" />
+    <item
+        android:id="@+id/sticker_delete"
+        android:title="Borrar" />
+    <item
+        android:id="@+id/sticker_edit"
+        android:title="Editar" />
+    <item
+        android:id="@+id/sticker_save_gallery"
+        android:title="Guardar en galería" />
+
+</menu>
