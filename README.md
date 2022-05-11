@@ -1,4 +1,4 @@
-Aplicación para hacer stickers de WhatsApp 
+Aplicación para hacer stickers de WhatsApp. 
 
 # Introducción 
 ¿Qué puedes hacer con esta aplicación?:
