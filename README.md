@@ -21,3 +21,6 @@ Additional information:
 - FishBun Image Chooser [https://github.com/sangcomz/FishBun]
 - Fresco [https://github.com/facebook/fresco]
 
+# Introduction 
+Código cogido de: https://github.com/nikovega21/whatsapp-sticker-maker.git
+
